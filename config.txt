@@ -1,0 +1,15 @@
+
+{
+"app_id":"wx7172d7749354911d",
+"app_secret":"3e3775be5846c583fc126610aef8390a",
+"template_id":"4tiOt74azfRLDggEnlsGnISiPZm_EF767Jxow7bo0tQ",
+"user":["o_8p-573GiketWLMX6gh4FPw5gfU","o_8p-57fJCT8BWjcvv_yUfLt2GJs"],
+"weather_key":"87044a1984174acfa350efae1402b8d9",
+"region":"普洱",
+"birthday1":{"name":"宝贝","birthday":"1999-11-06"},
+"birthday2":{"name":"我的","birthday":"2001-01-18"},
+"birthday3":{"name":"馒头","birthday":"2020-08-15"},
+"love_date":"2016-03-09",
+"note_ch":"",
+"note_en":""
+}
